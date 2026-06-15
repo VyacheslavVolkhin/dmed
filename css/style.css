@@ -4884,7 +4884,6 @@ select.form-input:required:invalid {
 }
 .btn:has(.button-ico:only-child) {
   aspect-ratio: 1;
-  width: auto;
   padding: 0;
 }
 .button-arrow .button-title:after {
